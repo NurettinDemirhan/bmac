@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bmac/static/css/main.be59bedb.css",
-    "main.js": "/bmac/static/js/main.b2b8a522.js",
+    "main.css": "/bmac/static/css/main.6635500b.css",
+    "main.js": "/bmac/static/js/main.2b90d2e1.js",
     "static/js/453.8ced8b5e.chunk.js": "/bmac/static/js/453.8ced8b5e.chunk.js",
     "static/media/bmac-header-photo.jpg": "/bmac/static/media/bmac-header-photo.a78c7326eceb3d860a7d.jpg",
     "static/media/bmac-header-photo-two.jpg": "/bmac/static/media/bmac-header-photo-two.cf20fc409cc645d75ead.jpg",
@@ -12,12 +12,12 @@
     "static/media/sertas.png": "/bmac/static/media/sertas.7cf18aad5d2bbb866a0b.png",
     "static/media/yon.jpeg": "/bmac/static/media/yon.b5568ad11566bb56f9de.jpeg",
     "index.html": "/bmac/index.html",
-    "main.be59bedb.css.map": "/bmac/static/css/main.be59bedb.css.map",
-    "main.b2b8a522.js.map": "/bmac/static/js/main.b2b8a522.js.map",
+    "main.6635500b.css.map": "/bmac/static/css/main.6635500b.css.map",
+    "main.2b90d2e1.js.map": "/bmac/static/js/main.2b90d2e1.js.map",
     "453.8ced8b5e.chunk.js.map": "/bmac/static/js/453.8ced8b5e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be59bedb.css",
-    "static/js/main.b2b8a522.js"
+    "static/css/main.6635500b.css",
+    "static/js/main.2b90d2e1.js"
   ]
 }
