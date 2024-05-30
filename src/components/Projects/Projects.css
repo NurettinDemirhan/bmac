@@ -1,0 +1,28 @@
+.projects{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+    
+}
+
+.projects-inner{
+    width: 80%;
+}
+.one-project{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3rem;
+
+}
+.one-project-images{
+    display: flex;
+    gap: 1rem;
+}
+.one-project img{
+    height: 300px;
+}

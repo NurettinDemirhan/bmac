@@ -1,0 +1,25 @@
+.footer{
+    background-color: rgb(9, 63, 39);
+    color: rgb(153, 152, 152);
+
+    display: flex;
+    justify-content: center;
+    gap: 7rem;
+
+    h3{
+        font-size: 1rem;
+        font-weight: 200;
+        color: rgb(191, 189, 189);
+    }
+    p{
+        font-size: 0.9rem;
+        transition: color 0.3s ease-in;
+        &:hover{
+            color: white;
+            cursor: pointer;
+        }
+    }
+    img{
+        width: 300px;
+    }
+}
