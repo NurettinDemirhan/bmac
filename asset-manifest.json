@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bmac/static/css/main.be59bedb.css",
+    "main.js": "/bmac/static/js/main.b2b8a522.js",
+    "static/js/453.8ced8b5e.chunk.js": "/bmac/static/js/453.8ced8b5e.chunk.js",
+    "static/media/bmac-header-photo.jpg": "/bmac/static/media/bmac-header-photo.a78c7326eceb3d860a7d.jpg",
+    "static/media/bmac-header-photo-two.jpg": "/bmac/static/media/bmac-header-photo-two.cf20fc409cc645d75ead.jpg",
+    "static/media/Erdemir.png": "/bmac/static/media/Erdemir.e97e19c796d9a82bec1f.png",
+    "static/media/pacpro.png": "/bmac/static/media/pacpro.7ea26ababe490717b51f.png",
+    "static/media/bmac-logo-black.jpeg": "/bmac/static/media/bmac-logo-black.a4ee423c8bbeafa0f9b1.jpeg",
+    "static/media/logo-white.png": "/bmac/static/media/logo-white.cf264d6d21ad13d8ceef.png",
+    "static/media/sertas.png": "/bmac/static/media/sertas.7cf18aad5d2bbb866a0b.png",
+    "static/media/yon.jpeg": "/bmac/static/media/yon.b5568ad11566bb56f9de.jpeg",
+    "index.html": "/bmac/index.html",
+    "main.be59bedb.css.map": "/bmac/static/css/main.be59bedb.css.map",
+    "main.b2b8a522.js.map": "/bmac/static/js/main.b2b8a522.js.map",
+    "453.8ced8b5e.chunk.js.map": "/bmac/static/js/453.8ced8b5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be59bedb.css",
+    "static/js/main.b2b8a522.js"
+  ]
+}
